@@ -23,3 +23,5 @@ Linear Programming Solving Tools for IE6001@NUS
 * Refine the first stage algorithm implemented in `LPSolver`
 * Make a balance between two rules.
 * run TP-H
+
+You can see how to use it, in `test.py`
